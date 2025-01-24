@@ -1,10 +1,12 @@
 [package]
 name = "awesomeThings"
 version = "1.0.0"
-authors = [romfol]
+authors = ["romfol"]
 
 [addresses]
 app = "6f2a11a75c9def967c7dcfdf2e61d7b989d9c423bf646ade5b8fe3e7edee27af"
+std = "0x1"
+
 [dev-addresses]
 
 [dependencies.AptosFramework]
