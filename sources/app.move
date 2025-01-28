@@ -4,6 +4,6 @@ module app::App {
     public fun hello(text: String): String {
         text
     }   
-//
+// good learning for today
 
 }
